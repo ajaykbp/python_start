@@ -1,2 +1,3 @@
 # python_start
-practice
+hi human,
+excited to use github
